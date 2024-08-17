@@ -1,0 +1,9 @@
+{
+    "id": "tasks4today",
+    "name": "Tasks4Today",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Transfers old tasks from daily notes to today's note",
+    "author": "Your Name",
+    "isDesktopOnly": false
+}
